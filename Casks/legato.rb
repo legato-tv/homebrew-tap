@@ -1,6 +1,6 @@
 cask "legato" do
-  version "0.1.0,20261120"
-  sha256 "754f6d2d6957bfecdaa95b2455264b2a7f93d5b2af2111099e7be39ef7e9c451"
+  version "0.1.2,20261123"
+  sha256 "e027a9ee25d723c9477dbee186759d499b51d972255f23db117e99c2437bbcb5"
 
   url "https://downloads.legato.tv/mac/Legato-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Legato"
